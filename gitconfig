@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = verity.shuker@gmail.com
+	name = verity shuker
